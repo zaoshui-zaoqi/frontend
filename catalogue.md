@@ -1,6 +1,6 @@
 # FreeCodeCamp
-[tribute page](https://codepen.io/zaoshuizaoqi/pen/jObmpRX)
+[tribute page](https://codepen.io/zaoshuizaoqi/full/jObmpRX)
 
-[survey form](https://codepen.io/zaoshuizaoqi/pen/WNQZGaa)
+[survey form](https://codepen.io/zaoshuizaoqi/full/WNQZGaa)
 
-[product landing page](https://codepen.io/zaoshuizaoqi/pen/bGVjPza)
+[product landing page](https://codepen.io/zaoshuizaoqi/full/bGVjPza)
